@@ -1,0 +1,21 @@
+{
+    "name": "Shakespearify",
+    "version": "0.1.0",
+    "description": "Convert your webpages into shakespearean language",
+    "host_permissions": ["*://*/*"],
+    "icons": {
+        "16": "assets/shakespeare.png",
+        "32": "assets/shakespeare.png",
+        "48": "assets/shakespeare48.png",
+        "128": "assets/shakespeare128.png"
+    },
+    "background" : {
+        "service_worker" : "shakespearify.js"
+      },
+    "action": {
+        "default_icon": "assets/shakespeare.png"
+      },
+    
+    "permissions": ["activeTab", "scripting"],
+    "manifest_version": 3
+  }
