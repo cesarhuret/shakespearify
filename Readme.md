@@ -5,8 +5,8 @@ Got a webpage? Convert into shakespearean language!
 Chrome extension coming soon
 
 ## Installation
-1. clone this repo
-2. Head to brave://extensions
+1. Clone this repo
+2. Head to `brave://extensions` or `chrome://extensions`
 3. Click developer mode in top right
 4. Add the root of this repo in load unpacked extension
 
