@@ -10,6 +10,8 @@ Chrome extension coming soon
 3. Click developer mode in top right
 4. Add the root of this repo in load unpacked extension
 
+## Demo 📽️
+https://www.youtube.com/watch?v=YW8VEDCgbjM
 
 
 ## Steps
