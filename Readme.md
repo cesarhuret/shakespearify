@@ -18,3 +18,10 @@ Chrome extension coming soon
 2. Click on the shakespeare icon
 3. Words `you` & `your` are replaced to `thou` & `thy`
 4. Read 📜
+
+## Warning! ⚠
+
+This tool can end up breaking some webpages, it is just for fun.
+Will probably not be updated in the future. 
+
+If you'd like to add word replacements, dm me on discord at `Kesar#1129`
